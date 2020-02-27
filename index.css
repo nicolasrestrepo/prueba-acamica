@@ -3,7 +3,32 @@
     color: white;
 }
 
+
 .edison{
     background-color:blueviolet;
     color: green;
 }
+
+.sandra{
+    background-color: rgb(252, 2, 77);
+    color: yellow;
+}
+.manuel{
+    background-color: gray;
+    color: green;
+}
+.joan{
+    background: darkcyan;
+    color: darkslateblue;
+}
+ .dousting {
+     background-color: lightblue;
+     color: gold;
+ }
+.daniel{
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
