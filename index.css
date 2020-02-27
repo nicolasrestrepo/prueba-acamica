@@ -2,9 +2,14 @@
     background-color: red;
     color: white;
 }
+.sandra{
+    background-color: rgb(252, 2, 77);
+    color: yellow;
+}
 .manuel{
     background-color: gray;
     color: green;
+}
 .joan{
     background: darkcyan;
     color: darkslateblue;
