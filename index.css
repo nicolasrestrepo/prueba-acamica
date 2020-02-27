@@ -2,6 +2,13 @@
     background-color: red;
     color: white;
 }
+
+
+.edison{
+    background-color:blueviolet;
+    color: green;
+}
+
 .sandra{
     background-color: rgb(252, 2, 77);
     color: yellow;
@@ -24,5 +31,4 @@
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 
