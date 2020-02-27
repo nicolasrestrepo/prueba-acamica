@@ -2,8 +2,9 @@
 
 # Nicolas Restrepo
 
+# Joan González
+
 # Dousting Calderón
 
 # Daniel Hernandez
-
 
