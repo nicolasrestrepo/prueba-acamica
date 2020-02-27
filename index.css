@@ -3,9 +3,15 @@
     color: white;
 }
 
+ .dousting {
+     background-color: lightblue;
+     color: gold;
+ }
+
 .daniel{
     background-color: blue;
     color: white;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
 }
+
